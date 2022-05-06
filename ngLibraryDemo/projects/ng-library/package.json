@@ -1,11 +1,17 @@
 {
-  "name": "ng-library",
-  "version": "0.0.1",
+  "name": "@ng-library/ng-library",
+  "version": "1.1.0",
   "peerDependencies": {
     "@angular/common": "^13.3.0",
     "@angular/core": "^13.3.0"
   },
-  "dependencies": {
-    "tslib": "^2.3.0"
+  "description": "ng-library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MansiGodhani/ngLibraryDemo.git"
+  },
+  "author": {
+    "name": "Mansi Godhani",
+    "email": "godhanimansi71@gmail.com"
   }
 }
