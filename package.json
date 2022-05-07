@@ -1,0 +1,19 @@
+{
+  "name": "nglibrarydemo",
+  "version": "1.0.0",
+  "description": "\"# ngLibraryDemo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MansiGodhani/ngLibraryDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MansiGodhani/ngLibraryDemo/issues"
+  },
+  "homepage": "https://github.com/MansiGodhani/ngLibraryDemo#readme"
+}

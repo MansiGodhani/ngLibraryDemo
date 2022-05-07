@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b0b8ab3a-3fc4-4a15-b3e1-814cad5f0c5a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngLibraryDemo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ngLibraryDemo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngLibraryDemo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ngLibraryDemo/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +68,7 @@
       <workItem from="1651841043369" duration="3245000" />
       <workItem from="1651898917884" duration="2169000" />
       <workItem from="1651901419652" duration="234000" />
+      <workItem from="1651901711837" duration="1898000" />
     </task>
     <servers />
   </component>

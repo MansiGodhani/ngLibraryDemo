@@ -36,10 +36,16 @@ Use package manager to install
   npm i ng-library-demo
 ``` 
 
-Now go to your app.module file of angular project. and import module for use this library.
+Now go to your app.module.ts file of angular project and import module for use this library.
 
 ```
-
+  import { NgLibraryDemo } from 'ng-library-demo'
 ```
-Yes that's it.
+And Now Add module in import.
+````
+imports: [
+    DemoLibModule
+  ],
+````
+Now This library is work for your app.
 
