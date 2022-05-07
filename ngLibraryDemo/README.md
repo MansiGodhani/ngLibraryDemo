@@ -25,3 +25,21 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Installation
+
+Package is available at: https://www.npmjs.com/package/ng-library-demo
+
+Use package manager to install
+
+```
+  npm i ng-library-demo
+``` 
+
+Now go to your app.module file of angular project. and import module for use this library.
+
+```
+
+```
+Yes that's it.
+
